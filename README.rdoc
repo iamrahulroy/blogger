@@ -1,6 +1,6 @@
 == README
 
-This is a JumpStartLab blogger project.
+This blogger project has been created using JumpStart Lab tutorial. This has been created for learning purpose only.
 
 Things you may want to cover:
 
