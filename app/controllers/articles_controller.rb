@@ -49,4 +49,6 @@ class ArticlesController < ApplicationController
 
 		redirect_to article_path(@article)
 	end
+
+	before_filter :require_login, only: [:new, :create, :edit, :update, :destroy]
 end
